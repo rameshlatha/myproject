@@ -1,0 +1,89 @@
+16:28:19.706 [main] INFO  testCases.TC_01_CreateNew_Acct - *********Launced webpage*******
+16:28:19.843 [main] INFO  testCases.TC_01_CreateNew_Acct - ********maximize**********
+16:28:19.854 [main] INFO  testCases.TC_01_CreateNew_Acct - **********implicitly wait********
+16:28:19.939 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my account*****
+16:28:40.128 [main] INFO  testCases.TC_01_CreateNew_Acct - **********firstname*******
+16:28:40.234 [main] INFO  testCases.TC_01_CreateNew_Acct - **********lastname*******
+16:28:40.372 [main] INFO  testCases.TC_01_CreateNew_Acct - **********email********
+16:28:40.530 [main] INFO  testCases.TC_01_CreateNew_Acct - ***********password******
+16:28:40.668 [main] INFO  testCases.TC_01_CreateNew_Acct - **********confirmpwd********
+16:28:47.221 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my act*****
+16:34:56.346 [main] INFO  testCases.TC_01_CreateNew_Acct - *********Launced webpage*******
+16:34:56.509 [main] INFO  testCases.TC_01_CreateNew_Acct - ********maximize**********
+16:34:56.531 [main] INFO  testCases.TC_01_CreateNew_Acct - **********implicitly wait********
+16:34:56.675 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my account*****
+16:34:58.995 [main] INFO  testCases.TC_01_CreateNew_Acct - **********firstname*******
+16:34:59.093 [main] INFO  testCases.TC_01_CreateNew_Acct - **********lastname*******
+16:34:59.230 [main] INFO  testCases.TC_01_CreateNew_Acct - **********email********
+16:34:59.350 [main] INFO  testCases.TC_01_CreateNew_Acct - ***********password******
+16:34:59.443 [main] INFO  testCases.TC_01_CreateNew_Acct - **********confirmpwd********
+16:35:02.126 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my act*****
+21:57:16.946 [main] INFO  testCases.TC_01_CreateNew_Acct - *********Launced webpage*******
+21:57:17.080 [main] INFO  testCases.TC_01_CreateNew_Acct - ********maximize**********
+21:57:17.092 [main] INFO  testCases.TC_01_CreateNew_Acct - **********implicitly wait********
+21:57:17.175 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my account*****
+21:57:19.976 [main] INFO  testCases.TC_01_CreateNew_Acct - **********firstname*******
+21:57:20.088 [main] INFO  testCases.TC_01_CreateNew_Acct - **********lastname*******
+21:57:20.236 [main] INFO  testCases.TC_01_CreateNew_Acct - **********email********
+21:57:20.371 [main] INFO  testCases.TC_01_CreateNew_Acct - ***********password******
+21:57:20.486 [main] INFO  testCases.TC_01_CreateNew_Acct - **********confirmpwd********
+21:57:27.372 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my act*****
+10:17:54.851 [main] INFO  testCases.TC_01_CreateNew_Acct - *********Launced webpage*******
+10:17:55.015 [main] INFO  testCases.TC_01_CreateNew_Acct - ********maximize**********
+10:17:55.024 [main] INFO  testCases.TC_01_CreateNew_Acct - **********implicitly wait********
+10:17:55.125 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my account*****
+10:17:57.439 [main] INFO  testCases.TC_01_CreateNew_Acct - **********firstname*******
+10:17:57.518 [main] INFO  testCases.TC_01_CreateNew_Acct - **********lastname*******
+10:17:57.617 [main] INFO  testCases.TC_01_CreateNew_Acct - **********email********
+10:17:57.726 [main] INFO  testCases.TC_01_CreateNew_Acct - ***********password******
+10:17:57.807 [main] INFO  testCases.TC_01_CreateNew_Acct - **********confirmpwd********
+10:18:02.081 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my act*****
+19:55:08.622 [main] INFO  testCases.TC_01_CreateNew_Acct - *********Launced webpage*******
+19:55:08.754 [main] INFO  testCases.TC_01_CreateNew_Acct - ********maximize**********
+19:55:08.762 [main] INFO  testCases.TC_01_CreateNew_Acct - **********implicitly wait********
+19:55:08.825 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my account*****
+19:55:11.848 [main] INFO  testCases.TC_01_CreateNew_Acct - **********firstname*******
+19:55:11.964 [main] INFO  testCases.TC_01_CreateNew_Acct - **********lastname*******
+19:55:12.103 [main] INFO  testCases.TC_01_CreateNew_Acct - **********email********
+19:55:12.241 [main] INFO  testCases.TC_01_CreateNew_Acct - ***********password******
+19:55:12.340 [main] INFO  testCases.TC_01_CreateNew_Acct - **********confirmpwd********
+19:55:15.307 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my act*****
+10:21:09.427 [main] INFO  testCases.TC_01_CreateNew_Acct - *********Launced webpage*******
+10:21:09.577 [main] INFO  testCases.TC_01_CreateNew_Acct - ********maximize**********
+10:21:09.586 [main] INFO  testCases.TC_01_CreateNew_Acct - **********implicitly wait********
+10:21:09.674 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my account*****
+10:21:11.273 [main] INFO  testCases.TC_01_CreateNew_Acct - **********firstname*******
+10:21:11.380 [main] INFO  testCases.TC_01_CreateNew_Acct - **********lastname*******
+10:21:11.512 [main] INFO  testCases.TC_01_CreateNew_Acct - **********email********
+10:21:11.639 [main] INFO  testCases.TC_01_CreateNew_Acct - ***********password******
+10:21:11.743 [main] INFO  testCases.TC_01_CreateNew_Acct - **********confirmpwd********
+10:21:13.663 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my act*****
+11:45:20.514 [main] INFO  testCases.TC_01_CreateNew_Acct - *********Launced webpage*******
+11:45:20.640 [main] INFO  testCases.TC_01_CreateNew_Acct - ********maximize**********
+11:45:20.653 [main] INFO  testCases.TC_01_CreateNew_Acct - **********implicitly wait********
+11:45:20.734 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my account*****
+11:45:29.105 [main] INFO  testCases.TC_01_CreateNew_Acct - **********firstname*******
+11:45:29.208 [main] INFO  testCases.TC_01_CreateNew_Acct - **********lastname*******
+11:45:29.358 [main] INFO  testCases.TC_01_CreateNew_Acct - **********email********
+11:45:29.551 [main] INFO  testCases.TC_01_CreateNew_Acct - ***********password******
+11:45:29.672 [main] INFO  testCases.TC_01_CreateNew_Acct - **********confirmpwd********
+11:45:32.775 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my act*****
+15:10:46.659 [main] INFO  testCases.TC_01_CreateNew_Acct - *********Launced webpage*******
+15:10:46.792 [main] INFO  testCases.TC_01_CreateNew_Acct - ********maximize**********
+15:10:46.800 [main] INFO  testCases.TC_01_CreateNew_Acct - **********implicitly wait********
+15:10:46.879 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my account*****
+15:10:48.796 [main] INFO  testCases.TC_01_CreateNew_Acct - **********firstname*******
+15:10:48.881 [main] INFO  testCases.TC_01_CreateNew_Acct - **********lastname*******
+15:10:49.004 [main] INFO  testCases.TC_01_CreateNew_Acct - **********email********
+15:10:49.139 [main] INFO  testCases.TC_01_CreateNew_Acct - ***********password******
+15:10:49.236 [main] INFO  testCases.TC_01_CreateNew_Acct - **********confirmpwd********
+15:10:51.250 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my act*****
+16:37:53.305 [main] INFO  testCases.TC_01_CreateNew_Acct - *********Launced webpage*******
+16:37:53.434 [main] INFO  testCases.TC_01_CreateNew_Acct - ********maximize**********
+16:37:53.442 [main] INFO  testCases.TC_01_CreateNew_Acct - **********implicitly wait********
+16:37:53.497 [main] INFO  testCases.TC_01_CreateNew_Acct - **********click on my account*****
+16:39:42.885 [main] INFO  testCases.TC_01_CreateNew_Acct - **********firstname*******
+16:39:42.975 [main] INFO  testCases.TC_01_CreateNew_Acct - **********lastname*******
+16:39:43.094 [main] INFO  testCases.TC_01_CreateNew_Acct - **********email********
+16:39:43.224 [main] INFO  testCases.TC_01_CreateNew_Acct - ***********password******
+16:39:43.325 [main] INFO  testCases.TC_01_CreateNew_Acct - **********confirmpwd********
